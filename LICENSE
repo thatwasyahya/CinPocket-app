@@ -1,0 +1,26 @@
+CinPocket
+Copyright © 2026 thatwasyahya. Tous droits réservés.
+
+Le code source, le design (interface, identité visuelle, icônes) et les contenus rédigés pour
+CinPocket (explications, propositions de réponse, phrases à retenir, mises en situation) sont
+protégés par le Code de la propriété intellectuelle. Toute reproduction, représentation,
+modification, distribution ou réutilisation, totale ou partielle, sans l'autorisation écrite de
+l'auteur est interdite, sous réserve des exceptions prévues par la loi (articles L122-4, L122-5,
+L122-6 et L335-2 et suivants du Code de la propriété intellectuelle).
+
+La consultation de ce dépôt et sa copie par la fonction « fork » de GitHub ne sont permises que dans
+les limites des conditions d'utilisation de GitHub ; elles ne donnent aucun autre droit.
+
+L'auteur s'oppose à la fouille de textes et de données (article L122-5-3 du Code de la propriété
+intellectuelle), notamment pour l'entraînement de modèles d'intelligence artificielle.
+
+Ne sont pas couverts :
+- les intitulés des 259 questions de connaissance, repris sans modification de la liste officielle
+  publiée par le ministère de l'Intérieur (version du 12 décembre 2025, naturalisation) : ce sont
+  des informations publiques, librement réutilisables dans les conditions des articles L321-1 et
+  L322-1 du Code des relations entre le public et l'administration ;
+- les bibliothèques et polices tierces, qui restent sous leur propre licence (voir
+  https://thatwasyahya.github.io/CinPocket-app/licences.txt, ou dans l'application : écran
+  « L'examen » → « Licences des composants »).
+
+Contact : https://github.com/thatwasyahya
